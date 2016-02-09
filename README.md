@@ -1,2 +1,2 @@
 # JavaScript
-Solution's of 7 Days of Java Script from Hacker Rank!!
+Solution's for 7 Days of Java Script from Hacker Rank!!
